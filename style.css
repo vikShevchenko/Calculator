@@ -38,12 +38,17 @@ body{
     background-color: rgba(128, 128, 128, 0.373);
 }
 .btn-equal{
-    padding: 30px 190px 26px 20px;  
+    padding: 30px 105px 26px 95px; 
+
+
 }
 .btn-orange{
     background-color: orange;
 }
 .btn-gray{
     background-color: gray;
+}
+.btn-red{
+    background-color: rgba(228, 39, 39, 0.733);
 }
 
